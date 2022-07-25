@@ -12,3 +12,4 @@ root.render(
 
 );
 
+//no es un componente por que por lo general llamamos a nuestro componente app  
